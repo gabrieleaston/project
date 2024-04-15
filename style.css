@@ -606,7 +606,7 @@ a{
 
 
 .bg-image2{
-   background-image: url(Images/image5.jpg);
+   background-image: url("image5.jpg");
    height: 900px;
    background-size: cover;
    background-position: center;
