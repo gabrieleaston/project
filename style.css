@@ -35,12 +35,12 @@ a{
   
   
   .slide:nth-child(1) {
-    background-image: url("Images/image16.jpg");
+    background-image: url("image16.jpg");
     
   }
   
   .slide:nth-child(2) {
-    background-image: url("Images/image1.jpg");
+    background-image: url("image1.jpg");
     animation-delay: 5s; /* Add a delay to the second slide */
   }
   
